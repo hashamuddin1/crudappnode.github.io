@@ -1,0 +1,7 @@
+views may html files aur template engine hotay hotay
+
+mvc=model views controller
+
+controller may functions banatay hay
+
+model may ham mongodb data may kaam krtay hay,data validation wghera
